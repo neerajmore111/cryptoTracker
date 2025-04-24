@@ -20,7 +20,7 @@ A responsive React + Redux Toolkit application that simulates real-time tracking
 
 ##  Demo
 
-SEE live on vercle = 
+SEE live on vercle = https://crypto-tracker-rust-seven.vercel.app/
 
 ## 🛠️ Tech Stack
 
